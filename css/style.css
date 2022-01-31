@@ -1,0 +1,94 @@
+@import "null.css";
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Comforter&display=swap"); /*font-family: 'Comforter', cursive;*/
+@import url("https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap"); /* font-family: 'Neonderthaw', cursive; */
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap"); /* font-family: 'Rubik Beastly', cursive; */
+
+@font-face {
+	font-family: "True North";
+	src: url("../fonts/TrueNorth-Regular.woff2") format("woff2"), url("../fonts/TrueNorth-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "True North";
+	src: url("../fonts/TrueNorthDotsBlack-Regular.woff2") format("woff2"), url("../fonts/TrueNorthDotsBlack-Regular.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+.header-title {
+	text-align: center;
+	font-family: "True North" sans-serif;
+	font-weight: 900;
+	font-size: 30px;
+}
+
+.header-text {
+	text-align: center;
+	font-size: 19px;
+}
+
+.p-image {
+	text-align: center;
+}
+
+h2 {
+	font-family: "Rubik Beastly", sans-serif;
+	font-style: normal;
+	font-size: 24px;
+}
+
+.main-p-one {
+	font-size: 20px;
+	font-family: "Comforter", sans-serif;
+	font-style: cursive;
+}
+
+.main-p-two {
+	text-decoration: underline;
+	font-size: 20px;
+}
+.p-english-test {
+	font-family: "Neonderthaw", sans-serif;
+	font-style: cursive;
+	font-size: 20px;
+	text-align: right;
+}
+.p-main-image {
+	text-align: center;
+}
+
+.main-p-three {
+	text-shadow: 1px 1px 1px #000;
+	text-transform: uppercase;
+	text-decoration: line-through;
+}
+.main-p-four {
+	font-family: "Rubik Beastly", sans-serif;
+	font-size: 15px;
+	color: crimson;
+	text-transform: capitalize;
+}
+
+.source {
+	font-size: 19px;
+	font-style: oblique;
+}
+.end {
+	font-family: "Neonderthaw", sans-serif;
+	font-size: 25px;
+	font-style: cursive;
+	white-space: nowrap;
+}
+.constructed {
+	font-size: 19px;
+	font-style: oblique;
+}
+span {
+	color: darkorchid;
+	font-size: 25px;
+}
